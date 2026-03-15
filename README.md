@@ -15,10 +15,7 @@
 
 # 👨‍💻 About Me
 
-🎓 Computer Science Graduate from **University of Mumbai**  
-💻 Passionate **Python Full Stack Developer**  
-
-- 🌱 Currently improving skills in **Django & Full Stack Development**
+🎓 Computer Science Graduate from **University of Mumbai** 💻 Passionate **Python Full Stack Developer** - 🌱 Currently building a **Snack Management System** and improving skills in **Django & Full Stack Development**
 - 🧠 Strong knowledge of **CRUD Operations, Authentication, and MVC/MVT Architecture**
 - 🚀 Interested in building **scalable web applications**
 - 📫 Reach me at **<a href="mailto:akshaygaikwad2531@gmail.com">akshaygaikwad2531@gmail.com</a>**
@@ -45,89 +42,33 @@
 
 # 🚀 Tech Stack
 
-### Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript,sql" />
-</p>
-
-### Frontend Development
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" />
-</p>
-
-### Backend Development
-<p>
-<img src="https://skillicons.dev/icons?i=django" />
-</p>
-
-### Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
-
-### Tools & Version Control
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,javascript,html,css,bootstrap,tailwind,react,mysql,sqlite,git,github,vscode&perline=7" alt="My Skills" />
 </p>
 
 ---
 
 # 📂 Featured Projects
 
-## 🧑‍💻 Online Examination Portal
+*Check out my repositories for full source code and documentation.*
 
-**Tech Stack:** Django, Python, HTML, CSS, JavaScript, Bootstrap  
-
-Features:
-
-✔ Role-based dashboards for **Admin, Teacher, and Student**  
-✔ Secure **Login / Signup authentication system**  
-✔ Admin panel to manage **users and exams**  
-✔ Teacher panel to **create exams and questions**  
-✔ Students can **attempt exams and view results**  
-✔ Profile management with **image upload**  
-✔ Fully **responsive Bootstrap UI**
+* 🧑‍💻 **[Online Examination Portal](https://github.com/AkshayG02)** - A role-based platform with admin, teacher, and student dashboards for secure exam creation and grading. *(Django, Python, Bootstrap)*
+* 🍔 **[Food Ordering System](https://github.com/AkshayG02)** - A complete e-commerce web app featuring a dynamic cart, checkout system, and role-based access control. *(Django, Python, JavaScript)*
 
 ---
 
-## 🍔 Food Ordering System
+# 🎓 Education & Certification
 
-**Tech Stack:** Django, Python, HTML, CSS, JavaScript, Bootstrap  
-
-Features:
-
-✔ Complete **food ordering web application**  
-✔ **Admin & User role-based system**  
-✔ Secure **authentication (signup/login/logout)**  
-✔ Admin panel to manage **users and food items**  
-✔ **Cart and checkout system**  
-✔ Responsive UI for **desktop and mobile**
-
----
-
-# 🎓 Education
-
-🎓 **Bachelor of Computer Science (CS)**  
-University of Mumbai  
-2021 – 2024
-
----
-
-# 📜 Certification
-
-**Python Full Stack Development**  
-Quality Software Technologies – 2025
+🎓 **Bachelor of Computer Science (CS)** | University of Mumbai (2021 – 2024)  
+📜 **Python Full Stack Development** | Quality Software Technologies (2025)
 
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=AkshayG02&show_icons=true&theme=tokyonight" height="180"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayG02&layout=compact&theme=tokyonight" height="180"/>
-
 </p>
 
 <p align="center">
@@ -146,5 +87,4 @@ Quality Software Technologies – 2025
 
 # ⭐ Support
 
-If you like my work, consider **starring my repositories ⭐**  
-and **connecting with me on LinkedIn**.
+If you like my work, consider **starring my repositories ⭐** and **connecting with me on LinkedIn**.
